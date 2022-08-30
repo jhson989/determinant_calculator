@@ -1,1 +1,1 @@
-# determinant_calculator
+# Determinant calculator
